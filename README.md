@@ -5,11 +5,11 @@
   <br/>
   <div align="start">
     
-  ## Hello, Testimony Bakare
+  ## Hello, I'm Testimony Bakare
   Frontend @texzytech
 
   ### Catch up with me on:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DenmarkDecoder) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BakareTest33683) 
   [![](https://visitcount.itsvg.in/api?id=dprof-in-tech&icon=0&color=0)](https://x.com/BakareTest33683)
   </div>
   
